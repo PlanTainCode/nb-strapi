@@ -1,0 +1,25 @@
+{
+  "collectionName": "components_default_seo_default_seos",
+  "info": {
+    "displayName": "defaultSeo"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "favicon": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
